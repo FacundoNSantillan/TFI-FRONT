@@ -47,6 +47,7 @@ El proyecto busca:
 - Node.js 16+
 - npm / yarn / pnpm
 - (Opcional) Backend funcionando para pruebas completas
+- Crear `.env` antes de iniciar el proyecto  
 
 ### 🔧 Instalación
 
@@ -55,6 +56,8 @@ git clone https://github.com/FacundoNSantillan/TFI-FRONT.git
 cd TFI-FRONT
 npm install        # o yarn install
 ```
+
+📄 Variables de entorno (.env)
 
 Crear un archivo **.env** en la raíz del proyecto con la siguiente estructura:
 
