@@ -6,6 +6,15 @@ El proyecto está basado en la empresa **JFA Distribuciones**, desarrollando una
 
 ---
 
+## 🔗 Repositorio relacionado
+
+Este frontend funciona junto al backend del proyecto, encargado de la API y la lógica de negocio:
+
+➡ **Backend del proyecto:**  
+https://github.com/FacundoNSantillan/TFI-BACK
+
+---
+
 ## 📝 Objetivo del Proyecto
 
 El fin del trabajo es aplicar los conocimientos de análisis, diseño y desarrollo de software, construyendo un sistema funcional que represente una solución realista.  
@@ -47,8 +56,20 @@ cd TFI-FRONT
 npm install        # o yarn install
 ```
 
+Crear un archivo **.env** en la raíz del proyecto con la siguiente estructura:
+
+```env
+# 🔥 Servidor
+VITE_API_URL=
+```
+
 ▶️ Ejecutar servidor de desarrollo
 ```bash
 npm run dev        # o yarn dev
+```
+
+Servidor disponible en:
+```bash
+http://localhost:PORT
 ```
 
