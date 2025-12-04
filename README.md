@@ -5,6 +5,10 @@ Este repositorio corresponde al **Frontend del Trabajo Final Integrador (TFI)** 
 El proyecto está basado en la empresa **JFA Distribuciones**, desarrollando una solución web enfocada en la gestión comercial y operativa.
 
 ---
+## 📸 Vista previa del sistema
+![Vista previa](https://i.postimg.cc/WzrfyMjz/Untitled.png)
+
+---
 
 ## 🔗 Repositorio relacionado
 
