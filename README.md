@@ -6,7 +6,7 @@ El proyecto está basado en la empresa **JFA Distribuciones**, desarrollando una
 
 ---
 ## 📸 Vista previa del sistema
-![Vista previa](https://postimg.cc/5Q43YQXW)
+![Vista previa]([Untitled.png](https://postimg.cc/5Q43YQXW))
 
 ---
 
